@@ -1,0 +1,10 @@
+{
+    "name": "catvert/noice-crash-php",
+    "authors": [
+        {
+            "name": "Arno Dupont",
+            "email": "arno.dupont.pro@gmail.com"
+        }
+    ],
+    "require": {}
+}
